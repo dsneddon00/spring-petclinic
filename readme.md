@@ -1,3 +1,5 @@
+# Nano is stupid. And I hate it. And I don't know how to install micro on an Amazon machine, the typical linux command isn't working.
+
 i edit the readme to signal web hook change.
 ===========================================
 another change
