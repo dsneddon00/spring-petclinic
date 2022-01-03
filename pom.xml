@@ -126,7 +126,7 @@
          <warFile>target\petclinic.war</warFile>
          <path>/petclinic</path>
          <username>admin</username>
-        <password>Canwegetinornot48</password>
+        <password>admin</password>
          </configuration>
      </plugin>  
       <plugin>
